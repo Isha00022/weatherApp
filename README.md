@@ -2,7 +2,7 @@
 
 ## Android Club VITC Final Project
 
-### By Isha Gupta (20BEC1023) & Jayasree.M (20BAI1272)
+### By Isha Gupta (20BEC1023) & Jayasree M (20BAI1272)
 
 #### Weather app using Open weather API:
 <br>
@@ -12,7 +12,8 @@ This app shows the temperature of a particular city. Also it shows humidity and 
 # Checking weather of Rajasthan
 <br>
 
-![img_2](https://user-images.githubusercontent.com/98108717/168860740-84bcc88b-7790-4603-849e-f67fbab4f9a8.jpeg)
+<!-- ![img_2](https://user-images.githubusercontent.com/98108717/168860740-84bcc88b-7790-4603-849e-f67fbab4f9a8.jpeg) -->
+<img src="https://user-images.githubusercontent.com/98108717/168860740-84bcc88b-7790-4603-849e-f67fbab4f9a8.jpeg" width=400 height=750>
 
 <br><br>
 # If any non existing city is entered
@@ -36,3 +37,9 @@ We first wanted to make a converter app, that converts HTML to PDF, PDF to HTML,
 Hence, with our knowledge we have developed a weather app that can read in cities around the globe and display it's weather. Further, it can change its background with respect the weather displayed.
 
 However, we are currently learning the backends, storages and file uploading using Node JS and how to combine it with React Native from the internet so that we are able to make the converter app someday, possibly by the end of the summer vacation.
+
+## Contributions 
+
+Isha Gupta - Front-End 
+<br>
+Jayasree M - API (accessing and using data from API)
