@@ -13,7 +13,8 @@ This app shows the temperature of a particular city. Also it shows humidity and 
 
 <br>
 
-![img_1](https://user-images.githubusercontent.com/98108717/168860746-ffa72f7d-198b-4f8e-b55a-7c64a4dd1638.jpeg)
+<!-- ![img_1](https://user-images.githubusercontent.com/98108717/168860746-ffa72f7d-198b-4f8e-b55a-7c64a4dd1638.jpeg) -->
+<img src="https://user-images.githubusercontent.com/98108717/168860746-ffa72f7d-198b-4f8e-b55a-7c64a4dd1638.jpeg" width=400 height=750>
 
 <br>
 <br>
