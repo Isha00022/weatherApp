@@ -28,3 +28,11 @@ This app shows the temperature of a particular city. Also it shows humidity and 
 # Video of the App
 
 https://user-images.githubusercontent.com/98108717/168860752-a6e26332-595b-41e3-bc15-ba8f63356ba9.mp4
+
+## Development Journey
+
+We first wanted to make a converter app, that converts HTML to PDF, PDF to HTML, WORD to PDF, etc. (like smallpdf websites) for the final project. But soon we found out that we have to have a backend. Upon further analysis, we figured that we would need a backend storage (maybe multer), servers and Node JS. Also we were confused on the file uploading part. It was complex to make with our now knowledge on app development. So we decided to go for a basic app which reads APIs and uses them. 
+
+Hence, with our knowledge we have developed a weather app that can read in cities around the globe and display it's weather. Further, it can change its background with respect the weather displayed.
+
+However, we are currently learning the backends, storages and file uploading using Node JS and how to combine it with React Native from the internet so that we are able to make the converter app someday, possibly by the end of the summer vacation.
