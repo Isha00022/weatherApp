@@ -1,3 +1,33 @@
+// import { StatusBar } from 'expo-status-bar';
+// import React, { useState, useEffect } from 'react';
+// import { StyleSheet, Text, View, ActivityIndicator } from 'react-native';
+// import Weather from './components/Weather';
+// import SearchBar from './components/SearchBar';
+
+// // const API_KEY = "46a9246bebba16d42b36aac3fc3ba8af";
+
+
+// export default function App() {
+//   return (
+//     <View style={styles.container}>
+//       <Text>Welcome</Text>
+//       <StatusBar style="auto" />
+//     </View>
+//   );
+// }
+
+// const styles = StyleSheet.create({
+//   container: {
+//     flex: 1,
+//     backgroundColor: '#fff',
+//     alignItems: 'center',
+//     justifyContent: 'center',
+//   },
+//   primaryText: {
+//       margin: 20,
+//       fontSize: 28
+//   }
+// });
 import { StatusBar } from 'expo-status-bar';
 import React, { useState, useEffect } from 'react';
 import { StyleSheet, Text, View, ActivityIndicator } from 'react-native';
