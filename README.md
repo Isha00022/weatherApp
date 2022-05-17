@@ -1,8 +1,14 @@
 # Weather App 
-Weather app using Open weather API:
+
+## Android Club VITC Final Project
+
+### By Isha Gupta (20BEC1023) & Jayasree.M (20BAI1272)
+
+#### Weather app using Open weather API:
 <br>
-This app shows the temperature of a particular city. Also it shows humidity and wind speed. Also it changes the background of the pp according to the weather.
+This app shows the temperature of a particular city. Also it shows humidity and wind speed. Also it changes the background of the app according to the weather.
 <br>
+
 # Checking weather of Rajasthan
 <br>
 
